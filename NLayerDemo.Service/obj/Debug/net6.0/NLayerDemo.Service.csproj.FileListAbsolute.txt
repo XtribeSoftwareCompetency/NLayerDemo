@@ -1,0 +1,17 @@
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\NLayerDemo.Service.deps.json
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\NLayerDemo.Service.dll
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\ref\NLayerDemo.Service.dll
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\NLayerDemo.Service.pdb
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\NLayerDemo.Core.dll
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\NLayerDemo.Repository.dll
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\NLayerDemo.Repository.pdb
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\bin\Debug\net6.0\NLayerDemo.Core.pdb
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.csproj.AssemblyReference.cache
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.AssemblyInfoInputs.cache
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.AssemblyInfo.cs
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.csproj.CoreCompileInputs.cache
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.csproj.CopyComplete
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.dll
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\ref\NLayerDemo.Service.dll
+C:\Projects\SoftCom\NLayerDemo\NLayerDemo.Service\obj\Debug\net6.0\NLayerDemo.Service.pdb

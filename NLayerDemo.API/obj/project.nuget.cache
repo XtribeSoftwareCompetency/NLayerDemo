@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HYZa+GmGdaFe2nhvlxGX5GUVnNWMS9InoQR8ZKAjjheoN2HUi0mzfFf7EpcK29dBd0zC+Jt9MsUEWMVGEFNMHw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SoftCom\\NLayerDemo\\NLayerDemo.API\\NLayerDemo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erdogan.eker\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\erdogan.eker\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\erdogan.eker\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\erdogan.eker\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\erdogan.eker\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\erdogan.eker\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
