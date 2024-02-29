@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28b19fc3-29cb-4640-bd3b-a9a7e59e0c9f": {
+      "ProjectGuid": "28b19fc3-29cb-4640-bd3b-a9a7e59e0c9f",
+      "DisplayName": "NLayerDemo.Core",
+      "ColorIndex": 0
+    },
+    "9bc69db5-3c37-4884-a0c5-88085d58cf9b": {
+      "ProjectGuid": "9bc69db5-3c37-4884-a0c5-88085d58cf9b",
+      "DisplayName": "NLayerDemo.Repository",
+      "ColorIndex": 1
+    },
+    "cebd52e8-5968-42c2-986b-7b2ca3fe4927": {
+      "ProjectGuid": "cebd52e8-5968-42c2-986b-7b2ca3fe4927",
+      "DisplayName": "NLayerDemo.Service",
+      "ColorIndex": 2
+    },
+    "ce000dd6-fd24-4a74-88c9-1a42cdfcc692": {
+      "ProjectGuid": "ce000dd6-fd24-4a74-88c9-1a42cdfcc692",
+      "DisplayName": "NLayerDemo.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
